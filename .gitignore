@@ -1,0 +1,4 @@
+/node_modules
+/pages/*.*
+!/pages/.gitkeep
+ozon.csv

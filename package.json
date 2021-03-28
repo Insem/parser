@@ -1,0 +1,18 @@
+{
+  "name": "ozon-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parse":"node index"
+  },
+  "author": "amper",
+  "license": "ISC",
+  "gypfile": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "http-parser-js": "^0.5.3",
+    "osmosis": "^1.1.10",
+    "request": "^2.88.2"
+  }
+}
