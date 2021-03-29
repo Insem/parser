@@ -41,6 +41,7 @@ class Parser {
             fs.appendFileSync("ozon.csv", resultArr.map(row => row.arr.join(self.separator)).join("\n")+"\n")
         });
     }
+    
     parseFolder(){
         const self = this;
         console.log("Парсинг пошел");
