@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "parse":"node index"
+    "parse": "node index"
   },
   "author": "amper",
   "license": "ISC",
